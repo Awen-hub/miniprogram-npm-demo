@@ -1,0 +1,3 @@
+<!--pages/main/firstPage/index.wxml-->
+<text>pages/main/firstPage/index.wxml</text>
+<button bindtap="onTap">跳转到secondPage</button>

@@ -1,0 +1,15 @@
+{
+    "pages": [
+        "pages/main/firstPage/index"
+    ],
+    "sitemapLocation": "sitemap.json",
+    "subpackages": [
+        {
+            "root": "pages/subpackage-1",
+            "name": "subpackage-1",
+            "pages": [
+                "secondPage/index"
+            ]
+        }
+    ]
+}
